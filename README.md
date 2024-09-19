@@ -8,4 +8,4 @@ PROOF OF CONCEPT
 
 A dashboard featuring Descriptive, Predictive, and Prescriptive Statistics. Users can filter data by date, program, expense code, area, or company name to visualize spending trends through bar plots and pie charts. Predictive tools provide forecasts with dynamic error metrics, moving averages, and seasonality analysis. Prescriptive insights allow users to optimize budget allocation based on demand predictions, with detailed statistical tests and custom borrowing cost formulas to maximize financial efficiency.
 
-![output_202408_re](https://github.com/user-attachments/assets/8e422c40-d8ed-4b6e-b525-4d6e7b7d86be)
+![presentation_re](https://github.com/user-attachments/assets/78b20067-aa74-46d8-8e88-27794eb12cf0)
