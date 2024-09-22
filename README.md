@@ -2,7 +2,7 @@
 
 
 PROOF OF CONCEPT
-- The data are simulated from uniform distributions mostly (with random parameters). The company names are random.
+- The data are simulated from uniform distributions (with random parameters). The company names are random.
 - The predictions have not been optimized and the optimization problem does not represent a real world scenario.
 - It hasn't been used in production.
 
